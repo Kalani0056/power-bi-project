@@ -34,9 +34,4 @@ indicators and helps users understand trends and patterns in the data.
 - Dataset
 - Dashboard screenshots
 
-## Author
 
-Kalani Sasikala
-
-GitHub: https://github.com/Kalani0056
-Behance: https://www.behance.net/kalanisasikala
